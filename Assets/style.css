@@ -327,3 +327,28 @@
   border-radius: 50%;
   background-color: #ccc;
 }
+.person
+{
+ display: flex;
+ justify-content: space-around;
+ height: 330px;
+ width:100%;
+ background-color: grey;
+}
+.person-avatar
+{
+ height: 250px;
+ width: 250px;
+ background-color: #adadad;
+ margin-top: 25px;
+ transform: rotate(-5deg);
+ border-radius: 7px;
+}
+.about-person
+{
+ width: 790px;
+ height: 190px;
+ background-color: #adadad;
+ margin-top: 55px;
+ 
+}
