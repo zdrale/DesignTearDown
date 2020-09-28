@@ -175,3 +175,88 @@ background-color: grey;
 margin-top:45px;
 margin-left:45px;
 }
+.members
+{
+ height: 715px;
+ width: 100%;
+ display: grid;
+ grid-template-columns: 335px 736px;
+}
+.shopify
+{
+ background-color: grey;   
+ margin-left: 45px;
+ height: 200px;
+ border-radius: 7px;
+
+}
+.shopify-header
+{
+ margin-top: 15px;   
+ width: 200px;
+ height: 25px;
+ margin: 20px auto;
+ background-color: #adadad;
+}
+.shopify-text
+{
+ width: 270px;
+ height: 50px;
+ background-color: #adadad;
+ margin: 20px auto;
+}
+.shopify-button
+{
+ width: 125px;
+ height: 37px;
+ background-color: #adadad;    
+ margin: 20px auto;
+ border-radius: 7px;
+
+}
+.smashing-members
+{
+ height: 639px;
+ background-color: grey;
+ margin-left: 20px;
+ border-radius: 7px;
+}
+.smashing-avatar
+{
+ width: 225px;
+ height: 225px;
+ background-color:  #adadad;
+ border-radius: 50%;
+ margin-top: 40px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 30px;
+}
+.smashing-header
+{
+ width: 495px;
+ height: 37px;
+ background-color:  #adadad;
+ margin-left: auto;
+ margin-right: auto;
+}
+.smashing-text
+{
+ width: 597px;
+ height: 80px;   
+ background-color:  #adadad;
+ margin-top: 20px;
+ margin-left: auto;
+ margin-right: auto;
+ margin-bottom: 25px;
+}
+.smashing-button
+{
+ width: 209px;
+ height: 55px;
+ background-color:  #adadad;
+ margin-left: auto;
+ margin-right: auto;
+ border-radius: 7px;
+
+}
