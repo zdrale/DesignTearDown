@@ -145,3 +145,33 @@
  width: 250px;
  background-color: grey;
 }
+.latest-posts
+{
+ display:grid;
+ grid-template-columns:400px 400px 400px;
+ background-color: grey;
+ height: 630px;
+}
+.post
+{
+ width: 400px;
+ height: 100%;
+ background-color: #ECEEF1;
+}
+
+.post-header
+{
+ width: 340px;
+ height: 100px;
+ background-color: grey;
+ margin-top:45px;
+ margin-left:45px;
+}
+.post-description
+{
+width: 310px;
+height: 180px;
+background-color: grey;
+margin-top:45px;
+margin-left:45px;
+}
