@@ -399,3 +399,53 @@
   background-color: #adadad;
   margin-bottom: 5px;
 }
+.smashing-book
+{
+height: 385px;
+width: 100%;
+background-color: grey;
+padding-top: 15px;
+position: relative;
+}
+.smaller-heading
+{
+ width: 260px;
+ height: 17px;
+ background-color: #adadad;
+ margin:25px 0 10px 15px;
+}
+.design-heading
+{
+ margin-left: 15px;
+ margin-bottom: 20px;
+ width: 336px;
+ height: 41px;
+ background-color: #adadad;
+
+}
+.design-text
+{
+ width: 671px;
+ height: 83px; 
+ background-color: #adadad;
+ margin-left: 15px;
+ margin-bottom: 40px;
+}
+.jump-to-btn
+{
+width: 360px;
+height: 65px;
+border-radius: 10px;
+background: #fff;
+margin-left: 15px;
+}
+.book
+{
+height: 321px;
+width: 290px;
+background-color: #adadad;
+position: absolute;
+right: 10%;
+top: -10%;
+transform: rotate(-10deg);
+}
