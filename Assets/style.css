@@ -106,3 +106,42 @@
   background-color: #adadad;
   margin-bottom: 10px;
 }
+.membership
+{
+ display: flex;
+ position: relative;
+ height: 440px;
+ width: 100%;
+ background-color: #adadad;
+ padding: 50px;
+}
+.membership-body
+{
+ height: 390px;
+ width: 65%;
+ background-color: #adadad;
+}
+.membership-line    
+{
+ width: 600px;
+ height: 15px;
+ margin: 40px;
+ background-color: grey;
+}
+.button
+{
+ width: 375px;
+ height: 55px;
+ background-color: grey;   
+ margin-left: 40px;
+ border-radius: 7px;
+}
+.image
+{
+ position: absolute;
+ right: 10%;
+ top: -15%;
+ height: 342px;
+ width: 250px;
+ background-color: grey;
+}
