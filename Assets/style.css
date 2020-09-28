@@ -106,157 +106,224 @@
   background-color: #adadad;
   margin-bottom: 10px;
 }
-.membership
-{
- display: flex;
- position: relative;
- height: 440px;
- width: 100%;
- background-color: #adadad;
- padding: 50px;
-}
-.membership-body
-{
- height: 390px;
- width: 65%;
- background-color: #adadad;
-}
-.membership-line    
-{
- width: 600px;
- height: 15px;
- margin: 40px;
- background-color: grey;
-}
-.button
-{
- width: 375px;
- height: 55px;
- background-color: grey;   
- margin-left: 40px;
- border-radius: 7px;
-}
-.image
-{
- position: absolute;
- right: 10%;
- top: -15%;
- height: 342px;
- width: 250px;
- background-color: grey;
-}
-.latest-posts
-{
- display:grid;
- grid-template-columns:400px 400px 400px;
- background-color: grey;
- height: 630px;
-}
-.post
-{
- width: 400px;
- height: 100%;
- background-color: #ECEEF1;
+
+.membership {
+  display: flex;
+  position: relative;
+  height: 440px;
+  width: 100%;
+  background-color: #adadad;
+  padding: 50px;
 }
 
-.post-header
-{
- width: 340px;
- height: 100px;
- background-color: grey;
- margin-top:45px;
- margin-left:45px;
+.membership-body {
+  height: 390px;
+  width: 65%;
+  background-color: #adadad;
 }
-.post-description
-{
-width: 310px;
-height: 180px;
-background-color: grey;
-margin-top:45px;
-margin-left:45px;
-}
-.members
-{
- height: 715px;
- width: 100%;
- display: grid;
- grid-template-columns: 335px 736px;
-}
-.shopify
-{
- background-color: grey;   
- margin-left: 45px;
- height: 200px;
- border-radius: 7px;
 
+.membership-line {
+  width: 600px;
+  height: 15px;
+  margin: 40px;
+  background-color: grey;
 }
-.shopify-header
-{
- margin-top: 15px;   
- width: 200px;
- height: 25px;
- margin: 20px auto;
- background-color: #adadad;
-}
-.shopify-text
-{
- width: 270px;
- height: 50px;
- background-color: #adadad;
- margin: 20px auto;
-}
-.shopify-button
-{
- width: 125px;
- height: 37px;
- background-color: #adadad;    
- margin: 20px auto;
- border-radius: 7px;
 
+.button {
+  width: 375px;
+  height: 55px;
+  background-color: grey;
+  margin-left: 40px;
+  border-radius: 7px;
 }
-.smashing-members
-{
- height: 639px;
- background-color: grey;
- margin-left: 20px;
- border-radius: 7px;
-}
-.smashing-avatar
-{
- width: 225px;
- height: 225px;
- background-color:  #adadad;
- border-radius: 50%;
- margin-top: 40px;
- margin-left: auto;
- margin-right: auto;
- margin-bottom: 30px;
-}
-.smashing-header
-{
- width: 495px;
- height: 37px;
- background-color:  #adadad;
- margin-left: auto;
- margin-right: auto;
-}
-.smashing-text
-{
- width: 597px;
- height: 80px;   
- background-color:  #adadad;
- margin-top: 20px;
- margin-left: auto;
- margin-right: auto;
- margin-bottom: 25px;
-}
-.smashing-button
-{
- width: 209px;
- height: 55px;
- background-color:  #adadad;
- margin-left: auto;
- margin-right: auto;
- border-radius: 7px;
 
+.image {
+  position: absolute;
+  right: 10%;
+  top: -15%;
+  height: 342px;
+  width: 250px;
+  background-color: grey;
+}
+
+.latest-posts {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  background-color: grey;
+  height: 630px;
+}
+
+.post {
+  width: auto;
+  height: 100%;
+  background-color: #ECEEF1;
+}
+
+.post-header {
+  width: 340px;
+  height: 100px;
+  background-color: grey;
+  margin-top: 45px;
+  margin-left: 45px;
+}
+
+.post-description {
+  width: 310px;
+  height: 180px;
+  background-color: grey;
+  margin-top: 45px;
+  margin-left: 45px;
+}
+
+.members {
+  height: 715px;
+  width: 100%;
+  display: grid;
+  grid-template-columns: 335px 736px;
+  justify-content: center;
+}
+
+.shopify {
+  background-color: grey;
+  margin-left: 45px;
+  height: 200px;
+  border-radius: 7px;
+}
+
+.shopify-header {
+  margin-top: 15px;
+  width: 200px;
+  height: 25px;
+  margin: 20px auto;
+  background-color: #adadad;
+}
+
+.shopify-text {
+  width: 270px;
+  height: 50px;
+  background-color: #adadad;
+  margin: 20px auto;
+}
+
+.shopify-button {
+  width: 125px;
+  height: 37px;
+  background-color: #adadad;
+  margin: 20px auto;
+  border-radius: 7px;
+}
+
+.smashing-members {
+  height: 639px;
+  background-color: grey;
+  margin-left: 20px;
+  border-radius: 7px;
+}
+
+.smashing-avatar {
+  width: 225px;
+  height: 225px;
+  background-color: #adadad;
+  border-radius: 50%;
+  margin-top: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.smashing-header {
+  width: 495px;
+  height: 37px;
+  background-color: #adadad;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.smashing-text {
+  width: 597px;
+  height: 80px;
+  background-color: #adadad;
+  margin-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 25px;
+}
+
+.smashing-button {
+  width: 209px;
+  height: 55px;
+  background-color: #adadad;
+  margin-left: auto;
+  margin-right: auto;
+  border-radius: 7px;
+}
+
+#jumbotron {
+  width: 95%;
+  padding: 3rem;
+  margin: auto;
+}
+
+.see-all-btn {
+  width: 300px;
+  height: 40px;
+  background-color: #adadad;
+  margin: 3rem auto;
+}
+
+/* Click jumbotron */
+.click {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: rgb(107, 107, 107);
+  padding: 3rem;
+  width: 100%;
+  margin: auto
+}
+
+.click-date {
+  width: 120px;
+  height: 20px;
+  background-color: #adadad;
+  margin-bottom: 1rem;
+}
+
+.click-title {
+  width: 400px;
+  height: 40px;
+  background-color: #adadad;
+  margin-bottom: 1rem;
+}
+
+.click-desc1 {
+  width: 450px;
+  height: 10px;
+  background-color: #adadad;
+  margin-bottom: .3rem;
+}
+
+.click-desc2 {
+  width: 380px;
+  height: 10px;
+  background-color: #adadad;
+  position: relative;
+  margin-bottom: 1rem;
+}
+
+.click-btn {
+  width: 260px;
+  height: 50px;
+  border-radius: 10px;
+  margin-top: 2rem;
+  margin-bottom: 5rem;
+  background: #fff;
+}
+
+.click-img {
+  width: 350px;
+  height: 350px;
+  border-radius: 50%;
+  background-color: #ccc;
 }
