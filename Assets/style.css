@@ -1,0 +1,38 @@
+.header
+{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #ECEEF1;
+    height: 90px;
+    width: 1190pox;
+}
+.logo
+{
+ background-color: grey;
+ height: 50px;
+ width: 60px;
+ border-radius: 7px;
+}
+.header-link
+{
+ background-color: rgb(173, 173, 173);
+ width: 100px;
+ height: 50px; 
+ border-radius: 7px;
+}
+.header-link2
+{
+ width: 100px;
+ height: 50px; 
+ background-color:grey;
+ border-radius: 7px;
+}
+.search-bar
+{
+ background-color: grey;
+ height: 55px;
+ width: 280px;
+ border-radius: 7px;
+ margin-left: 80px;
+}
