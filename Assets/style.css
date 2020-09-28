@@ -36,3 +36,70 @@
  border-radius: 7px;
  margin-left: 80px;
 }
+.paragraphs-1
+{
+ display: grid;
+ grid-template-columns: repeat(2,1fr);
+}
+.heading
+{
+ height: 50px;
+ width:25%;
+ background-color: grey;
+ margin-left: auto;
+ margin-right: auto;
+}
+.sub-heading
+{
+ height: 50px;
+ width:14.5%;
+ background-color: grey;
+ margin-left: auto;
+margin-right: auto;
+}
+.first-paragraph
+{
+ display: flex;
+ justify-content: left;
+ margin:15px 100px 0 60px;
+ width: 100%;
+ height: 350px;
+ 
+}
+.second-paragraph
+{
+ width: 100%;
+ height: 350px;
+
+}
+.avatar
+{
+ width: 25%;
+ height: 86px;
+ background-color: #adadad;
+}
+.name
+{
+ width: 70%;
+ height: 35px;
+ background-color: grey;
+ margin-left: 5px;
+}
+.paragraph-header
+{
+ display: flex;
+ justify-content: space-between;
+ width: 100%;    
+}
+.paragraph-body
+{
+ display: flex;
+ width: 100;
+}
+.line   
+{
+ width: 332px;
+ height: 35px;
+ background-color: grey;
+ margin: 0px 0px 10px 0px;
+}
