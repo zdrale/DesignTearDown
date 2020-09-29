@@ -19,6 +19,8 @@
   height: 50px;
   width: 60px;
   border-radius: 7px;
+  cursor: pointer;
+
 }
 
 .header-link {
@@ -26,6 +28,7 @@
   width: 100px;
   height: 50px;
   border-radius: 7px;
+  cursor: pointer;
 }
 
 .header-link2 {
@@ -33,6 +36,7 @@
   height: 50px;
   background-color: grey;
   border-radius: 7px;
+  cursor: pointer;
 }
 
 .search-bar {
@@ -87,6 +91,8 @@
   transform: rotate(-5deg);
   margin-right: 1rem;
   border-radius: 10px;
+  cursor: pointer;
+
 }
 
 .name {
@@ -230,6 +236,8 @@
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 30px;
+  cursor: pointer;
+
 }
 
 .smashing-header {
@@ -327,6 +335,7 @@
   height: 350px;
   border-radius: 50%;
   background-color: #ccc;
+  cursor: pointer;
 }
 
 .person {
@@ -344,6 +353,8 @@
   margin-top: 25px;
   transform: rotate(-5deg);
   border-radius: 7px;
+  cursor: pointer;
+
 }
 
 .about-person {
@@ -373,6 +384,8 @@
   border-radius: 10px;
   transform: rotate(-5deg);
   background-color: #bbb;
+  cursor: pointer;
+
 }
 
 .person-link-body {
@@ -506,6 +519,8 @@
   background-color: #adadad;
   border-radius: 50%;
   margin: 10px auto;
+  cursor: pointer;
+
 }
 
 .avatar-heading {
@@ -515,6 +530,8 @@
   margin-top: 45px;
   margin-left: 38px;
   margin-bottom: 50px;
+  cursor: pointer;
+
 }
 
 .avatar-about {
@@ -523,6 +540,8 @@
   margin-left: 38px;
   background-color: #adadad;
   margin-bottom: 40px;
+  cursor: pointer;
+
 }
 
 .email {
