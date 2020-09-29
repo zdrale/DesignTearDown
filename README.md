@@ -1,5 +1,4 @@
 # Design Teardown
-<<<<<<< Fature-Branch
 
 > Web Page that resembles tha design of Smashing Magazine
 
@@ -31,5 +30,4 @@
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
-=======
->>>>>>> master
+
