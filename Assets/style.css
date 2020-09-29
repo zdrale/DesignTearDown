@@ -7,7 +7,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #eceef1;
+  background-color: #ECEEF1;
   height: 90px;
   width: 1190px;
   margin: auto;
@@ -75,7 +75,7 @@
 .avatar {
   width: 86px;
   height: 86px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   transform: rotate(-5deg);
   margin-right: 1rem;
   border-radius: 10px;
@@ -84,7 +84,7 @@
 .name {
   flex: 1;
   height: 35px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-left: 5px;
 }
 .article-body {
@@ -94,7 +94,7 @@
 .article-line {
   width: 100%;
   height: 35px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 10px;
 }
 .membership {
@@ -102,22 +102,20 @@
   position: relative;
   height: 440px;
   width: 100%;
-  background-color: #adadad;
+  background-color: #ADADAD;
   padding: 50px;
 }
 .membership-body {
   height: 390px;
   width: 65%;
-  background-color: #adadad;
+  background-color: #ADADAD;
 }
-
 .membership-line {
   width: 600px;
   height: 15px;
   margin: 40px;
   background-color: grey;
 }
-
 .button {
   width: 375px;
   height: 55px;
@@ -125,7 +123,6 @@
   margin-left: 40px;
   border-radius: 7px;
 }
-
 .image {
   position: absolute;
   right: 10%;
@@ -134,20 +131,17 @@
   width: 250px;
   background-color: grey;
 }
-
 .latest-posts {
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: grey;
   height: 630px;
 }
-
 .post {
   width: auto;
   height: 100%;
-  background-color: #eceef1;
+  background-color: #ECEEF1;
 }
-
 .post-header {
   width: 340px;
   height: 100px;
@@ -155,7 +149,6 @@
   margin-top: 45px;
   margin-left: 45px;
 }
-
 .post-description {
   width: 310px;
   height: 180px;
@@ -163,7 +156,6 @@
   margin-top: 45px;
   margin-left: 45px;
 }
-
 .members {
   height: 715px;
   width: 100%;
@@ -171,47 +163,41 @@
   grid-template-columns: 335px 736px;
   justify-content: center;
 }
-
 .shopify {
   background-color: grey;
   margin-left: 45px;
   height: 200px;
   border-radius: 7px;
 }
-
 .shopify-header {
   width: 200px;
   height: 25px;
   margin: 20px auto;
-  background-color: #adadad;
+  background-color: #ADADAD;
 }
-
 .shopify-text {
   width: 270px;
   height: 50px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin: 20px auto;
 }
-
 .shopify-button {
   width: 125px;
   height: 37px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin: 20px auto;
   border-radius: 7px;
 }
-
 .smashing-members {
   height: 639px;
   background-color: grey;
   margin-left: 20px;
   border-radius: 7px;
 }
-
 .smashing-avatar {
   width: 225px;
   height: 225px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   border-radius: 50%;
   margin-top: 40px;
   margin-left: auto;
@@ -219,47 +205,41 @@
   margin-bottom: 30px;
   cursor: pointer;
 }
-
 .smashing-header {
   width: 495px;
   height: 37px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-left: auto;
   margin-right: auto;
 }
-
 .smashing-text {
   width: 597px;
   height: 80px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
   margin-bottom: 25px;
 }
-
 .smashing-button {
   width: 209px;
   height: 55px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-left: auto;
   margin-right: auto;
   border-radius: 7px;
 }
-
 #jumbotron {
   width: 95%;
   padding: 3rem;
   margin: auto;
 }
-
 .see-all-btn {
   width: 300px;
   height: 40px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin: 3rem auto;
 }
-
 /* Click jumbotron */
 .click {
   display: flex;
@@ -271,36 +251,31 @@
   width: 100%;
   margin: auto;
 }
-
 .click-date {
   width: 120px;
   height: 20px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 1rem;
 }
-
 .click-title {
   width: 400px;
   height: 40px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 1rem;
 }
-
 .click-desc1 {
   width: 450px;
   height: 10px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 0.3rem;
 }
-
 .click-desc2 {
   width: 380px;
   height: 10px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   position: relative;
   margin-bottom: 1rem;
 }
-
 .click-btn {
   width: 260px;
   height: 50px;
@@ -309,7 +284,6 @@
   margin-bottom: 5rem;
   background: #fff;
 }
-
 .click-img {
   width: 350px;
   height: 350px;
@@ -317,7 +291,6 @@
   background-color: #ccc;
   cursor: pointer;
 }
-
 .person {
   display: flex;
   justify-content: space-around;
@@ -325,24 +298,21 @@
   width: 100%;
   background-color: grey;
 }
-
 .person-avatar {
   height: 250px;
   width: 250px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-top: 25px;
   transform: rotate(-5deg);
   border-radius: 7px;
   cursor: pointer;
 }
-
 .about-person {
   width: 790px;
   height: 190px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-top: 55px;
 }
-
 /* Community links */
 .community-links {
   display: grid;
@@ -350,12 +320,10 @@
   grid-gap: 50px;
   padding: 5rem;
 }
-
 .person-link {
   display: flex;
   margin-bottom: 6rem;
 }
-
 .person-link-avatar {
   width: 80px;
   height: 80px;
@@ -365,32 +333,27 @@
   background-color: #bbb;
   cursor: pointer;
 }
-
 .person-link-body {
   flex: 1;
 }
-
 .person-link-name {
   width: 150px;
   height: 20px;
   margin-bottom: 10px;
-  background: #adadad;
+  background: #ADADAD;
 }
-
 .person-link-title {
   width: 250px;
   height: 30px;
   margin-bottom: 12px;
   background: #787575;
 }
-
 .person-link-text {
   width: 100%;
   height: 15px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 5px;
 }
-
 .smashing-book {
   height: 385px;
   width: 100%;
@@ -399,30 +362,26 @@
   position: relative;
   margin-bottom: 60px;
 }
-
 .smaller-heading {
   width: 260px;
   height: 17px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin: 25px 0 10px 15px;
 }
-
 .design-heading {
   margin-left: 15px;
   margin-bottom: 20px;
   width: 336px;
   height: 41px;
-  background-color: #adadad;
+  background-color: #ADADAD;
 }
-
 .design-text {
   width: 671px;
   height: 83px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-left: 15px;
   margin-bottom: 40px;
 }
-
 .jump-to-btn {
   width: 360px;
   height: 65px;
@@ -430,17 +389,15 @@
   background: #fff;
   margin-left: 15px;
 }
-
 .book {
   height: 321px;
   width: 290px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   position: absolute;
   right: 10%;
   top: -10%;
   transform: rotate(-10deg);
 }
-
 .guides {
   margin: auto;
   display: grid;
@@ -449,52 +406,45 @@
   justify-content: center;
   grid-gap: 10px;
 }
-
 .guide-wrapper {
   height: 474px;
   background-color: grey;
 }
-
 .small-text {
   width: 193px;
   height: 17px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 10px;
 }
-
 .guide-heading {
   width: 248px;
   height: 88px;
   margin-left: 20px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 40px;
 }
-
 .about-guide {
   width: 430px;
   height: 142px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-left: 20px;
   margin-bottom: 30px;
 }
-
 .explore-button {
   height: 63px;
   width: 402px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-left: 20px;
 }
-
 .guides .guides-long {
   height: 772px;
 }
-
 .round-avatar {
   height: 284px;
   width: 284px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   border-radius: 50%;
   margin: 10px auto;
   cursor: pointer;
@@ -502,37 +452,33 @@
 .avatar-heading {
   width: 358px;
   height: 36px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-top: 45px;
   margin-left: 38px;
   margin-bottom: 50px;
   cursor: pointer;
 }
-
 .avatar-about {
   width: 420px;
   height: 108px;
   margin-left: 38px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 40px;
   cursor: pointer;
 }
-
 .email {
   width: 437px;
   height: 64px;
-  background-color: #adadad;
+  background-color: #ADADAD;
   margin-bottom: 40px;
   margin-left: 38px;
 }
-
 .promo {
   height: 74px;
   width: 360px;
   margin-left: 80px;
-  background-color: #adadad;
+  background-color: #ADADAD;
 }
-
 .footer {
   width: 100%;
   height: 640px;
@@ -540,52 +486,44 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #adadad;
+  background-color: #ADADAD;
 }
-
 .footer-title {
   width: 250px;
   height: 20px;
   background-color: grey;
   margin-bottom: 2rem;
 }
-
 .footer-links:not(:last-of-type) {
   width: 80%;
   height: 30px;
   margin-bottom: 5px;
   background-color: grey;
 }
-
 .footer-links:last-of-type {
   width: 40%;
   height: 30px;
   margin-bottom: 5px;
   background-color: #ccc;
 }
-
 .footer-text {
   width: 390px;
   height: 15px;
   margin-top: 0.4rem;
   background-color: #bbb;
 }
-
 #first-footer-link {
   margin-top: 2.5rem;
 }
-
 .last-link {
   width: 450px;
   height: 15px;
   background-color: grey;
   margin-bottom: 10px;
 }
-
 .last-link:last-of-type {
   width: 390px;
 }
-
 .mt-large {
   margin-top: 3rem;
 }
