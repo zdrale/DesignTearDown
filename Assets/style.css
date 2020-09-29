@@ -75,7 +75,7 @@
 .avatar {
   width: 86px;
   height: 86px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   transform: rotate(-5deg);
   margin-right: 1rem;
   border-radius: 10px;
@@ -84,7 +84,7 @@
 .name {
   flex: 1;
   height: 35px;
-  background-color: #ADADAD;
+  background-color: #aaaaaa;
   margin-left: 5px;
 }
 .article-body {
@@ -94,7 +94,7 @@
 .article-line {
   width: 100%;
   height: 35px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 10px;
 }
 .membership {
@@ -102,13 +102,13 @@
   position: relative;
   height: 440px;
   width: 100%;
-  background-color: #ADADAD;
+  background-color: #adadad;
   padding: 50px;
 }
 .membership-body {
   height: 390px;
   width: 65%;
-  background-color: #ADADAD;
+  background-color: #adadad;
 }
 .membership-line {
   width: 600px;
@@ -173,18 +173,18 @@
   width: 200px;
   height: 25px;
   margin: 20px auto;
-  background-color: #ADADAD;
+  background-color: #adadad;
 }
 .shopify-text {
   width: 270px;
   height: 50px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin: 20px auto;
 }
 .shopify-button {
   width: 125px;
   height: 37px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin: 20px auto;
   border-radius: 7px;
 }
@@ -197,7 +197,7 @@
 .smashing-avatar {
   width: 225px;
   height: 225px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   border-radius: 50%;
   margin-top: 40px;
   margin-left: auto;
@@ -208,14 +208,14 @@
 .smashing-header {
   width: 495px;
   height: 37px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-left: auto;
   margin-right: auto;
 }
 .smashing-text {
   width: 597px;
   height: 80px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-top: 20px;
   margin-left: auto;
   margin-right: auto;
@@ -237,7 +237,7 @@
 .see-all-btn {
   width: 300px;
   height: 40px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin: 3rem auto;
 }
 /* Click jumbotron */
@@ -254,25 +254,25 @@
 .click-date {
   width: 120px;
   height: 20px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 1rem;
 }
 .click-title {
   width: 400px;
   height: 40px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 1rem;
 }
 .click-desc1 {
   width: 450px;
   height: 10px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 0.3rem;
 }
 .click-desc2 {
   width: 380px;
   height: 10px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   position: relative;
   margin-bottom: 1rem;
 }
@@ -301,7 +301,7 @@
 .person-avatar {
   height: 250px;
   width: 250px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-top: 25px;
   transform: rotate(-5deg);
   border-radius: 7px;
@@ -310,7 +310,7 @@
 .about-person {
   width: 790px;
   height: 190px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-top: 55px;
 }
 /* Community links */
@@ -340,7 +340,7 @@
   width: 150px;
   height: 20px;
   margin-bottom: 10px;
-  background: #ADADAD;
+  background: #adadad;
 }
 .person-link-title {
   width: 250px;
@@ -351,7 +351,7 @@
 .person-link-text {
   width: 100%;
   height: 15px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 5px;
 }
 .smashing-book {
@@ -365,7 +365,7 @@
 .smaller-heading {
   width: 260px;
   height: 17px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin: 25px 0 10px 15px;
 }
 .design-heading {
@@ -373,12 +373,12 @@
   margin-bottom: 20px;
   width: 336px;
   height: 41px;
-  background-color: #ADADAD;
+  background-color: #adadad;
 }
 .design-text {
   width: 671px;
   height: 83px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-left: 15px;
   margin-bottom: 40px;
 }
@@ -392,7 +392,7 @@
 .book {
   height: 321px;
   width: 290px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   position: absolute;
   right: 10%;
   top: -10%;
@@ -413,7 +413,7 @@
 .small-text {
   width: 193px;
   height: 17px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-top: 20px;
   margin-left: 20px;
   margin-bottom: 10px;
@@ -422,20 +422,20 @@
   width: 248px;
   height: 88px;
   margin-left: 20px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 40px;
 }
 .about-guide {
   width: 430px;
   height: 142px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-left: 20px;
   margin-bottom: 30px;
 }
 .explore-button {
   height: 63px;
   width: 402px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-left: 20px;
 }
 .guides .guides-long {
@@ -444,7 +444,7 @@
 .round-avatar {
   height: 284px;
   width: 284px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   border-radius: 50%;
   margin: 10px auto;
   cursor: pointer;
@@ -452,7 +452,7 @@
 .avatar-heading {
   width: 358px;
   height: 36px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-top: 45px;
   margin-left: 38px;
   margin-bottom: 50px;
@@ -462,14 +462,14 @@
   width: 420px;
   height: 108px;
   margin-left: 38px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 40px;
   cursor: pointer;
 }
 .email {
   width: 437px;
   height: 64px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-bottom: 40px;
   margin-left: 38px;
 }
@@ -477,7 +477,7 @@
   height: 74px;
   width: 360px;
   margin-left: 80px;
-  background-color: #ADADAD;
+  background-color: #adadad;
 }
 .footer {
   width: 100%;
@@ -486,7 +486,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #ADADAD;
+  background-color: #adadad;
 }
 .footer-title {
   width: 250px;
