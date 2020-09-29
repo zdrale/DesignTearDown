@@ -3,15 +3,17 @@
 *::before {
   box-sizing: border-box;
 }
+
 .header {
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #ECEEF1;
+  background-color: #eceef1;
   height: 90px;
   width: 1190px;
   margin: auto;
 }
+
 .logo {
   background-color: grey;
   height: 50px;
@@ -19,6 +21,7 @@
   border-radius: 7px;
   cursor: pointer;
 }
+
 .header-link {
   background-color: rgb(173, 173, 173);
   width: 100px;
@@ -26,6 +29,7 @@
   border-radius: 7px;
   cursor: pointer;
 }
+
 .header-link2 {
   width: 100px;
   height: 50px;
@@ -33,6 +37,7 @@
   border-radius: 7px;
   cursor: pointer;
 }
+
 .search-bar {
   background-color: grey;
   height: 55px;
@@ -40,6 +45,7 @@
   border-radius: 7px;
   margin-left: 80px;
 }
+
 /* Latest articles */
 .heading {
   height: 50px;
@@ -48,6 +54,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
 .sub-heading {
   height: 50px;
   width: 14.5%;
@@ -55,10 +62,12 @@
   margin-left: auto;
   margin-right: auto;
 }
+
 .latest-articles {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
+
 .article {
   display: flex;
   flex-direction: column;
@@ -66,12 +75,14 @@
   height: 350px;
   padding: 5rem;
 }
+
 .article-header {
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-bottom: 1rem;
 }
+
 .avatar {
   width: 86px;
   height: 86px;
@@ -81,22 +92,26 @@
   border-radius: 10px;
   cursor: pointer;
 }
+
 .name {
   flex: 1;
   height: 35px;
-  background-color: #aaaaaa;
+  background-color: #aaa;
   margin-left: 5px;
 }
+
 .article-body {
   display: flex;
   flex-direction: column;
 }
+
 .article-line {
   width: 100%;
   height: 35px;
   background-color: #adadad;
   margin-bottom: 10px;
 }
+
 .membership {
   display: flex;
   position: relative;
@@ -105,17 +120,20 @@
   background-color: #adadad;
   padding: 50px;
 }
+
 .membership-body {
   height: 390px;
   width: 65%;
   background-color: #adadad;
 }
+
 .membership-line {
   width: 600px;
   height: 15px;
   margin: 40px;
   background-color: grey;
 }
+
 .button {
   width: 375px;
   height: 55px;
@@ -123,6 +141,7 @@
   margin-left: 40px;
   border-radius: 7px;
 }
+
 .image {
   position: absolute;
   right: 10%;
@@ -131,17 +150,20 @@
   width: 250px;
   background-color: grey;
 }
+
 .latest-posts {
   display: grid;
   grid-template-columns: auto auto auto;
   background-color: grey;
   height: 630px;
 }
+
 .post {
   width: auto;
   height: 100%;
-  background-color: #ECEEF1;
+  background-color: #eceef1;
 }
+
 .post-header {
   width: 340px;
   height: 100px;
@@ -149,6 +171,7 @@
   margin-top: 45px;
   margin-left: 45px;
 }
+
 .post-description {
   width: 310px;
   height: 180px;
@@ -156,6 +179,7 @@
   margin-top: 45px;
   margin-left: 45px;
 }
+
 .members {
   height: 715px;
   width: 100%;
@@ -163,24 +187,28 @@
   grid-template-columns: 335px 736px;
   justify-content: center;
 }
+
 .shopify {
   background-color: grey;
   margin-left: 45px;
   height: 200px;
   border-radius: 7px;
 }
+
 .shopify-header {
   width: 200px;
   height: 25px;
   margin: 20px auto;
   background-color: #adadad;
 }
+
 .shopify-text {
   width: 270px;
   height: 50px;
   background-color: #adadad;
   margin: 20px auto;
 }
+
 .shopify-button {
   width: 125px;
   height: 37px;
@@ -188,12 +216,14 @@
   margin: 20px auto;
   border-radius: 7px;
 }
+
 .smashing-members {
   height: 639px;
   background-color: grey;
   margin-left: 20px;
   border-radius: 7px;
 }
+
 .smashing-avatar {
   width: 225px;
   height: 225px;
@@ -205,6 +235,7 @@
   margin-bottom: 30px;
   cursor: pointer;
 }
+
 .smashing-header {
   width: 495px;
   height: 37px;
@@ -212,6 +243,7 @@
   margin-left: auto;
   margin-right: auto;
 }
+
 .smashing-text {
   width: 597px;
   height: 80px;
@@ -221,25 +253,29 @@
   margin-right: auto;
   margin-bottom: 25px;
 }
+
 .smashing-button {
   width: 209px;
   height: 55px;
-  background-color: #ADADAD;
+  background-color: #adadad;
   margin-left: auto;
   margin-right: auto;
   border-radius: 7px;
 }
+
 #jumbotron {
   width: 95%;
   padding: 3rem;
   margin: auto;
 }
+
 .see-all-btn {
   width: 300px;
   height: 40px;
   background-color: #adadad;
   margin: 3rem auto;
 }
+
 /* Click jumbotron */
 .click {
   display: flex;
@@ -251,24 +287,28 @@
   width: 100%;
   margin: auto;
 }
+
 .click-date {
   width: 120px;
   height: 20px;
   background-color: #adadad;
   margin-bottom: 1rem;
 }
+
 .click-title {
   width: 400px;
   height: 40px;
   background-color: #adadad;
   margin-bottom: 1rem;
 }
+
 .click-desc1 {
   width: 450px;
   height: 10px;
   background-color: #adadad;
   margin-bottom: 0.3rem;
 }
+
 .click-desc2 {
   width: 380px;
   height: 10px;
@@ -276,6 +316,7 @@
   position: relative;
   margin-bottom: 1rem;
 }
+
 .click-btn {
   width: 260px;
   height: 50px;
@@ -284,6 +325,7 @@
   margin-bottom: 5rem;
   background: #fff;
 }
+
 .click-img {
   width: 350px;
   height: 350px;
@@ -291,6 +333,7 @@
   background-color: #ccc;
   cursor: pointer;
 }
+
 .person {
   display: flex;
   justify-content: space-around;
@@ -298,6 +341,7 @@
   width: 100%;
   background-color: grey;
 }
+
 .person-avatar {
   height: 250px;
   width: 250px;
@@ -307,12 +351,14 @@
   border-radius: 7px;
   cursor: pointer;
 }
+
 .about-person {
   width: 790px;
   height: 190px;
   background-color: #adadad;
   margin-top: 55px;
 }
+
 /* Community links */
 .community-links {
   display: grid;
@@ -320,10 +366,12 @@
   grid-gap: 50px;
   padding: 5rem;
 }
+
 .person-link {
   display: flex;
   margin-bottom: 6rem;
 }
+
 .person-link-avatar {
   width: 80px;
   height: 80px;
@@ -333,27 +381,32 @@
   background-color: #bbb;
   cursor: pointer;
 }
+
 .person-link-body {
   flex: 1;
 }
+
 .person-link-name {
   width: 150px;
   height: 20px;
   margin-bottom: 10px;
   background: #adadad;
 }
+
 .person-link-title {
   width: 250px;
   height: 30px;
   margin-bottom: 12px;
   background: #787575;
 }
+
 .person-link-text {
   width: 100%;
   height: 15px;
   background-color: #adadad;
   margin-bottom: 5px;
 }
+
 .smashing-book {
   height: 385px;
   width: 100%;
@@ -362,12 +415,14 @@
   position: relative;
   margin-bottom: 60px;
 }
+
 .smaller-heading {
   width: 260px;
   height: 17px;
   background-color: #adadad;
   margin: 25px 0 10px 15px;
 }
+
 .design-heading {
   margin-left: 15px;
   margin-bottom: 20px;
@@ -375,6 +430,7 @@
   height: 41px;
   background-color: #adadad;
 }
+
 .design-text {
   width: 671px;
   height: 83px;
@@ -382,6 +438,7 @@
   margin-left: 15px;
   margin-bottom: 40px;
 }
+
 .jump-to-btn {
   width: 360px;
   height: 65px;
@@ -389,6 +446,7 @@
   background: #fff;
   margin-left: 15px;
 }
+
 .book {
   height: 321px;
   width: 290px;
@@ -398,6 +456,7 @@
   top: -10%;
   transform: rotate(-10deg);
 }
+
 .guides {
   margin: auto;
   display: grid;
@@ -406,10 +465,12 @@
   justify-content: center;
   grid-gap: 10px;
 }
+
 .guide-wrapper {
   height: 474px;
   background-color: grey;
 }
+
 .small-text {
   width: 193px;
   height: 17px;
@@ -418,6 +479,7 @@
   margin-left: 20px;
   margin-bottom: 10px;
 }
+
 .guide-heading {
   width: 248px;
   height: 88px;
@@ -425,6 +487,7 @@
   background-color: #adadad;
   margin-bottom: 40px;
 }
+
 .about-guide {
   width: 430px;
   height: 142px;
@@ -432,15 +495,18 @@
   margin-left: 20px;
   margin-bottom: 30px;
 }
+
 .explore-button {
   height: 63px;
   width: 402px;
   background-color: #adadad;
   margin-left: 20px;
 }
+
 .guides .guides-long {
   height: 772px;
 }
+
 .round-avatar {
   height: 284px;
   width: 284px;
@@ -449,6 +515,7 @@
   margin: 10px auto;
   cursor: pointer;
 }
+
 .avatar-heading {
   width: 358px;
   height: 36px;
@@ -458,6 +525,7 @@
   margin-bottom: 50px;
   cursor: pointer;
 }
+
 .avatar-about {
   width: 420px;
   height: 108px;
@@ -466,6 +534,7 @@
   margin-bottom: 40px;
   cursor: pointer;
 }
+
 .email {
   width: 437px;
   height: 64px;
@@ -473,12 +542,14 @@
   margin-bottom: 40px;
   margin-left: 38px;
 }
+
 .promo {
   height: 74px;
   width: 360px;
   margin-left: 80px;
   background-color: #adadad;
 }
+
 .footer {
   width: 100%;
   height: 640px;
@@ -488,42 +559,50 @@
   align-items: center;
   background-color: #adadad;
 }
+
 .footer-title {
   width: 250px;
   height: 20px;
   background-color: grey;
   margin-bottom: 2rem;
 }
+
 .footer-links:not(:last-of-type) {
   width: 80%;
   height: 30px;
   margin-bottom: 5px;
   background-color: grey;
 }
+
 .footer-links:last-of-type {
   width: 40%;
   height: 30px;
   margin-bottom: 5px;
   background-color: #ccc;
 }
+
 .footer-text {
   width: 390px;
   height: 15px;
   margin-top: 0.4rem;
   background-color: #bbb;
 }
+
 #first-footer-link {
   margin-top: 2.5rem;
 }
+
 .last-link {
   width: 450px;
   height: 15px;
   background-color: grey;
   margin-bottom: 10px;
 }
+
 .last-link:last-of-type {
   width: 390px;
 }
+
 .mt-large {
   margin-top: 3rem;
 }
