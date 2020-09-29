@@ -8,7 +8,7 @@
   display: flex;
   justify-content: space-around;
   align-items: center;
-  background-color: #ECEEF1;
+  background-color: #eceef1;
   height: 90px;
   width: 1190px;
   margin: auto;
@@ -163,7 +163,7 @@
 .post {
   width: auto;
   height: 100%;
-  background-color: #ECEEF1;
+  background-color: #eceef1;
 }
 
 .post-header {
@@ -198,7 +198,6 @@
 }
 
 .shopify-header {
-  margin-top: 15px;
   width: 200px;
   height: 25px;
   margin: 20px auto;
@@ -289,7 +288,7 @@
   background-color: rgb(107, 107, 107);
   padding: 3rem;
   width: 100%;
-  margin: auto
+  margin: auto;
 }
 
 .click-date {
@@ -310,7 +309,7 @@
   width: 450px;
   height: 10px;
   background-color: #adadad;
-  margin-bottom: .3rem;
+  margin-bottom: 0.3rem;
 }
 
 .click-desc2 {
@@ -403,7 +402,7 @@
   width: 250px;
   height: 30px;
   margin-bottom: 12px;
-  background: #787575
+  background: #787575;
 }
 
 .person-link-text {
