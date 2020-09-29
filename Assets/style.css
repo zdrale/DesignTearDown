@@ -399,118 +399,116 @@
   background-color: #adadad;
   margin-bottom: 5px;
 }
-.smashing-book
-{
-height: 385px;
-width: 100%;
-background-color: grey;
-padding-top: 15px;
-position: relative;
-margin-bottom: 60px;
-}
-.smaller-heading
-{
- width: 260px;
- height: 17px;
- background-color: #adadad;
- margin:25px 0 10px 15px;
-}
-.design-heading
-{
- margin-left: 15px;
- margin-bottom: 20px;
- width: 336px;
- height: 41px;
- background-color: #adadad;
 
+.smashing-book {
+  height: 385px;
+  width: 100%;
+  background-color: grey;
+  padding-top: 15px;
+  position: relative;
+  margin-bottom: 60px;
 }
-.design-text
-{
- width: 671px;
- height: 83px; 
- background-color: #adadad;
- margin-left: 15px;
- margin-bottom: 40px;
-}
-.jump-to-btn
-{
-width: 360px;
-height: 65px;
-border-radius: 10px;
-background: #fff;
-margin-left: 15px;
-}
-.book
-{
-height: 321px;
-width: 290px;
-background-color: #adadad;
-position: absolute;
-right: 10%;
-top: -10%;
-transform: rotate(-10deg);
-}
-.guides
-{
- margin: auto;
- display: grid;
- grid-template-columns: 515px 515px;
- grid-template-rows: repeat(2, minmax(75px, auto));
- justify-content: center;
- grid-gap: 10px;
-}
-.guide-wrapper
-{
- height: 474px;
- background-color: grey;
-}
-.small-text
-{
-width: 193px;
-height: 17px;
-background-color: #adadad;
-margin-top: 20px;
-margin-left: 20px;
-margin-bottom: 10px;
-}
-.guide-heading
-{
-width: 248px;
-height: 88px;
-margin-left: 20px;
-background-color: #adadad;
-margin-bottom: 40px;
-}
-.about-guide
-{
-width: 430px;
-height:142px;
-background-color: #adadad;
-margin-left: 20px;
-margin-bottom: 30px;
-}
-.explore-button
-{
-height: 63px;
-width: 402px;
-background-color: #adadad;
-margin-left: 20px;
-}
-.guides .guides-long
-{
- height: 772px;
 
+.smaller-heading {
+  width: 260px;
+  height: 17px;
+  background-color: #adadad;
+  margin: 25px 0 10px 15px;
 }
-.round-avatar
-{
- height: 284px;
- width: 284px;
- background-color: #adadad;
- border-radius: 50%;
- margin: 10px auto;
+
+.design-heading {
+  margin-left: 15px;
+  margin-bottom: 20px;
+  width: 336px;
+  height: 41px;
+  background-color: #adadad;
 }
-.avatar-heading
-{
+
+.design-text {
+  width: 671px;
+  height: 83px;
+  background-color: #adadad;
+  margin-left: 15px;
+  margin-bottom: 40px;
+}
+
+.jump-to-btn {
+  width: 360px;
+  height: 65px;
+  border-radius: 10px;
+  background: #fff;
+  margin-left: 15px;
+}
+
+.book {
+  height: 321px;
+  width: 290px;
+  background-color: #adadad;
+  position: absolute;
+  right: 10%;
+  top: -10%;
+  transform: rotate(-10deg);
+}
+
+.guides {
+  margin: auto;
+  display: grid;
+  grid-template-columns: 515px 515px;
+  grid-template-rows: repeat(2, minmax(75px, auto));
+  justify-content: center;
+  grid-gap: 10px;
+}
+
+.guide-wrapper {
+  height: 474px;
+  background-color: grey;
+}
+
+.small-text {
+  width: 193px;
+  height: 17px;
+  background-color: #adadad;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+
+.guide-heading {
+  width: 248px;
+  height: 88px;
+  margin-left: 20px;
+  background-color: #adadad;
+  margin-bottom: 40px;
+}
+
+.about-guide {
+  width: 430px;
+  height: 142px;
+  background-color: #adadad;
+  margin-left: 20px;
+  margin-bottom: 30px;
+}
+
+.explore-button {
+  height: 63px;
+  width: 402px;
+  background-color: #adadad;
+  margin-left: 20px;
+}
+
+.guides .guides-long {
+  height: 772px;
+}
+
+.round-avatar {
+  height: 284px;
+  width: 284px;
+  background-color: #adadad;
+  border-radius: 50%;
+  margin: 10px auto;
+}
+
+.avatar-heading {
   width: 358px;
   height: 36px;
   background-color: #adadad;
@@ -518,33 +516,83 @@ margin-left: 20px;
   margin-left: 38px;
   margin-bottom: 50px;
 }
-.avatar-about
-{
- width: 420px;
- height: 108px;
- margin-left: 38px;
- background-color: #adadad  ;
- margin-bottom:40px;
+
+.avatar-about {
+  width: 420px;
+  height: 108px;
+  margin-left: 38px;
+  background-color: #adadad;
+  margin-bottom: 40px;
 }
-.email
-{
+
+.email {
   width: 437px;
   height: 64px;
   background-color: #adadad;
-  margin-bottom:40px;
+  margin-bottom: 40px;
   margin-left: 38px;
 }
-.promo
-{
+
+.promo {
   height: 74px;
   width: 360px;
   margin-left: 80px;
   background-color: #adadad;
 }
-.see-all-btn-guides
-{
-  width: 300px;
-  height: 40px;
+
+.footer {
+  width: 100%;
+  height: 640px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   background-color: #adadad;
-  margin-left: 380px;
+}
+
+.footer-title {
+  width: 250px;
+  height: 20px;
+  background-color: grey;
+  margin-bottom: 2rem;
+}
+
+.footer-links:not(:last-of-type) {
+  width: 80%;
+  height: 30px;
+  margin-bottom: 5px;
+  background-color: grey;
+}
+
+.footer-links:last-of-type {
+  width: 40%;
+  height: 30px;
+  margin-bottom: 5px;
+  background-color: #ccc;
+}
+
+.footer-text {
+  width: 390px;
+  height: 15px;
+  margin-top: 0.4rem;
+  background-color: #bbb;
+}
+
+#first-footer-link {
+  margin-top: 2.5rem;
+}
+
+.last-link {
+  width: 450px;
+  height: 15px;
+  background-color: grey;
+  margin-bottom: 10px;
+}
+
+.last-link:last-of-type {
+  width: 390px;
+}
+
+.mt-large {
+  margin-top: 3rem;
 }
