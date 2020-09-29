@@ -406,6 +406,7 @@ width: 100%;
 background-color: grey;
 padding-top: 15px;
 position: relative;
+margin-bottom: 60px;
 }
 .smaller-heading
 {
@@ -448,4 +449,102 @@ position: absolute;
 right: 10%;
 top: -10%;
 transform: rotate(-10deg);
+}
+.guides
+{
+ margin: auto;
+ display: grid;
+ grid-template-columns: 515px 515px;
+ grid-template-rows: repeat(2, minmax(75px, auto));
+ justify-content: center;
+ grid-gap: 10px;
+}
+.guide-wrapper
+{
+ height: 474px;
+ background-color: grey;
+}
+.small-text
+{
+width: 193px;
+height: 17px;
+background-color: #adadad;
+margin-top: 20px;
+margin-left: 20px;
+margin-bottom: 10px;
+}
+.guide-heading
+{
+width: 248px;
+height: 88px;
+margin-left: 20px;
+background-color: #adadad;
+margin-bottom: 40px;
+}
+.about-guide
+{
+width: 430px;
+height:142px;
+background-color: #adadad;
+margin-left: 20px;
+margin-bottom: 30px;
+}
+.explore-button
+{
+height: 63px;
+width: 402px;
+background-color: #adadad;
+margin-left: 20px;
+}
+.guides .guides-long
+{
+ height: 772px;
+
+}
+.round-avatar
+{
+ height: 284px;
+ width: 284px;
+ background-color: #adadad;
+ border-radius: 50%;
+ margin: 10px auto;
+}
+.avatar-heading
+{
+  width: 358px;
+  height: 36px;
+  background-color: #adadad;
+  margin-top: 45px;
+  margin-left: 38px;
+  margin-bottom: 50px;
+}
+.avatar-about
+{
+ width: 420px;
+ height: 108px;
+ margin-left: 38px;
+ background-color: #adadad  ;
+ margin-bottom:40px;
+}
+.email
+{
+  width: 437px;
+  height: 64px;
+  background-color: #adadad;
+  margin-bottom:40px;
+  margin-left: 38px;
+}
+.promo
+{
+  height: 74px;
+  width: 360px;
+  margin-left: 80px;
+  background-color: #adadad;
+}
+.see-all-btn-guides
+{
+  width: 300px;
+  height: 40px;
+  background-color: #adadad;
+  margin-left: 380px;
 }
