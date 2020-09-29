@@ -3,7 +3,6 @@
 *::before {
   box-sizing: border-box;
 }
-
 .header {
   display: flex;
   justify-content: space-around;
@@ -13,7 +12,6 @@
   width: 1190px;
   margin: auto;
 }
-
 .logo {
   background-color: grey;
   height: 50px;
@@ -21,7 +19,6 @@
   border-radius: 7px;
   cursor: pointer;
 }
-
 .header-link {
   background-color: rgb(173, 173, 173);
   width: 100px;
@@ -29,7 +26,6 @@
   border-radius: 7px;
   cursor: pointer;
 }
-
 .header-link2 {
   width: 100px;
   height: 50px;
@@ -37,7 +33,6 @@
   border-radius: 7px;
   cursor: pointer;
 }
-
 .search-bar {
   background-color: grey;
   height: 55px;
@@ -45,7 +40,6 @@
   border-radius: 7px;
   margin-left: 80px;
 }
-
 /* Latest articles */
 .heading {
   height: 50px;
@@ -54,7 +48,6 @@
   margin-left: auto;
   margin-right: auto;
 }
-
 .sub-heading {
   height: 50px;
   width: 14.5%;
@@ -62,12 +55,10 @@
   margin-left: auto;
   margin-right: auto;
 }
-
 .latest-articles {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
 }
-
 .article {
   display: flex;
   flex-direction: column;
@@ -75,14 +66,12 @@
   height: 350px;
   padding: 5rem;
 }
-
 .article-header {
   display: flex;
   justify-content: space-between;
   width: 100%;
   margin-bottom: 1rem;
 }
-
 .avatar {
   width: 86px;
   height: 86px;
@@ -92,26 +81,22 @@
   border-radius: 10px;
   cursor: pointer;
 }
-
 .name {
   flex: 1;
   height: 35px;
   background-color: #adadad;
   margin-left: 5px;
 }
-
 .article-body {
   display: flex;
   flex-direction: column;
 }
-
 .article-line {
   width: 100%;
   height: 35px;
   background-color: #adadad;
   margin-bottom: 10px;
 }
-
 .membership {
   display: flex;
   position: relative;
@@ -120,7 +105,6 @@
   background-color: #adadad;
   padding: 50px;
 }
-
 .membership-body {
   height: 390px;
   width: 65%;
@@ -515,7 +499,6 @@
   margin: 10px auto;
   cursor: pointer;
 }
-
 .avatar-heading {
   width: 358px;
   height: 36px;
