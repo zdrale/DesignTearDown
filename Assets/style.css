@@ -566,10 +566,12 @@
   background-color: #adadad;
 }
 
+/* Footer */
 .footer {
   width: 100%;
   height: 640px;
   display: flex;
+  padding: 5%;
   flex-direction: column;
   justify-content: center;
   align-items: center;
