@@ -97,6 +97,10 @@
   cursor: pointer;
 }
 
+.avatar:hover {
+  transform: rotate(0deg);
+}
+
 .name {
   flex: 1;
   height: 35px;
@@ -356,6 +360,10 @@
   cursor: pointer;
 }
 
+.person-avatar:hover {
+  transform: rotate(0deg);
+}
+
 .about-person {
   width: 790px;
   height: 190px;
@@ -384,6 +392,10 @@
   transform: rotate(-5deg);
   background-color: #bbb;
   cursor: pointer;
+}
+
+.person-link-avatar:hover {
+  transform: rotate(0deg);
 }
 
 .person-link-body {
