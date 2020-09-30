@@ -12,7 +12,7 @@
 
 ## Live Demo
 
-[Live Demo Link](https://raw.githack.com/zdrale/DesignTearDown/Fature-Branch/index.html)
+[Live Demo Link](https://rawcdn.githack.com/zdrale/DesignTearDown/f1cbf26b413ea7736b8389d4c31a1e7f4ba132e4/index.html)
 
 ## Authors
 
